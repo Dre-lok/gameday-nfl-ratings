@@ -1,0 +1,27 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+
+# Raw data (regenerate with data/pull_data.py)
+data/raw/
+odds/raw/
+
+# Logs
+*.log
+
+# Frontend
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

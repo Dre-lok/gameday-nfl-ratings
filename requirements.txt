@@ -1,0 +1,8 @@
+nfl_data_py
+pyarrow
+pandas
+fastapi
+uvicorn
+python-dotenv
+certifi
+scipy
